@@ -4,7 +4,7 @@ This desktop application simplifies logging into the VIT-AP WiFi network by auto
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
 🚀 Getting Started
 Installation
-Download the .exe file here. ()
+Download the .exe file here. (https://github.com/AbhishekVabilisetty/VIT-AP-wifi-login-automat-desktop-app/releases/tag/1.0.0)
 Double-click the downloaded .exe file to launch the application.
 Initial Setup
 The app will prompt you to enter your username and password on the first run.
